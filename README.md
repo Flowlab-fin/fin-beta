@@ -3,8 +3,9 @@
 Surf fin design software by Flow Lab, for invited testers.
 
 ## Get started (Windows 10 / 11)
-1. Download **FlowLabFin-beta-0.1.1.exe** from the file list above. No install, no Python needed. It opens in its own window and keeps working offline for up to 7 days at a time.
-   - In Edge the download may say *"isn't commonly downloaded"*: open the Downloads list, click **…** next to the file, then **Keep**. If a box says *"Make sure you trust…"*, click the small arrow next to **Delete** and choose **Keep anyway**.
+1. Download **[FlowLabFin-beta-0.1.1.zip](https://github.com/Flowlab-fin/fin-beta/raw/main/FlowLabFin-beta-0.1.1.zip)** (click the link). No install, no Python needed. It opens in its own window and keeps working offline for up to 7 days at a time.
+   - Open your Downloads folder, right-click the zip, choose **Extract All…**, then **Extract**. The program is inside.
+   - (The bare `.exe` is also listed above, but Edge often refuses to keep it, so the zip is easier.)
 2. Double-click it. If Windows says *"Windows protected your PC"*, click **More info**, then **Run anyway**.
 3. Type your email and click **Check**. Click **Ask PK for access**: it sends PK your email and your computer's code.
 4. When PK has added you, click **Check** again and the app opens. Your licence runs 30 days; PK can extend it.
