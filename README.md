@@ -2,6 +2,8 @@
 
 Surf fin design software by Flow Lab, for invited testers.
 
+**The download is being updated: please check back shortly.**
+
 ## Get started (Windows 10 / 11)
 1. Download **[FlowLabFin-beta-0.1.1.zip](https://github.com/Flowlab-fin/fin-beta/raw/main/FlowLabFin-beta-0.1.1.zip)** (click the link). No install, no Python needed. It opens in its own window and keeps working offline for up to 7 days at a time.
    - Open your Downloads folder, right-click the zip, choose **Extract All…**, then **Extract**. The program is inside.
