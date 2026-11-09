@@ -8,7 +8,7 @@ Surf fin design software by Flow Lab, for invited testers.
 3. Type your email and click **Check**. Click **Ask PK for access**: it sends PK your email and your computer's code.
 4. When PK has added you, click **Check** again and the app opens. Your licence runs 30 days; PK can extend it.
 
-If Windows blocks the program outright (Smart App Control), turn it off in Windows Security > App & browser control, or ask PK for help.
+If Windows refuses to open it and shows no **Run anyway** button, that is Windows' Smart App Control: email PK before changing anything (switching it off can't be undone without reinstalling Windows).
 
 ## How to use it
 Read the manual: https://claude.ai/artifact/WdFcY5RPJjzDkULwcYTGzY
