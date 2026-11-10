@@ -10,7 +10,7 @@ Surf fin design software by Flow Lab, for invited testers.
 4. When PK has added you, click **Check** again and the app opens. Your licence runs 30 days; PK can extend it.
 5. Closing the app window closes the app. Double-click the program again to come back.
 
-If Windows says *"Smart App Control blocked an app"*, the beta program is not signed yet (coming soon). Until then you can switch Smart App Control off in **Windows Security > App & browser control > Smart App Control settings**, and back on later (needs Windows updated since April 2026). Or email PK first.
+If Windows says *"Smart App Control blocked an app"*, the beta program is not signed yet (coming soon). Email PK before changing anything: on many PCs, switching Smart App Control off can't be undone without reinstalling Windows (the Off option says so on your screen).
 
 ## How to use it
 Read the manual: https://claude.ai/artifact/WdFcY5RPJjzDkULwcYTGzY
